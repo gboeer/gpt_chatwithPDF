@@ -10,7 +10,11 @@ To set up this project, first you need to add your OPENAI_API key as an env vari
 
 ## Usage
 
-Use the command python -m streamlit run "path/to/project/gpt_custkb.py". This will start the app in your browser. Once you have uploaded your PDFs, refresh the browser, select a manual, and ask away!
+Use the command 
+
+    python -m streamlit run gpt_cust_kb.py. 
+
+This will start the app in your browser. Once you have uploaded your PDFs, refresh the browser, select a manual, and ask away!
 
 ## History
 
